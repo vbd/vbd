@@ -18,7 +18,7 @@ __Due to health problems I have to step back a bit but I am always available for
 
 In parallel I would like to give young developers some tips and recommendations with the publication of my [fieldnotes](https://github.com/vbd/Fieldnotes) so that they don't make the same mistakes I did.
 
-__Developers are much more than just code monkeys!__ Greetings to a former project partner who called me and other project participants like that.
+__Developers are much more than just code monkeys!__ Greetings to a former project partner who called me and other project participants like that. I hadn't known the expression before. May you, too, occasionally experience enlightenment.
  
 
 ## Techstack
