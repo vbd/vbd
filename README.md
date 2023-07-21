@@ -1,3 +1,26 @@
+## About me
+
+> "Helping create high-value solutions in complex environments."
+
+and
+
+> "It's all about getting stuff done."
+
+are my motto.
+
+In various roles including: developer, Scrum Master, Product Owner, project manager, sub-project manager, architect, troubleshooter, I have more than 25 years of project experience.
+
+My focus is on the development of backend software and matching CLI and TUI tools, often functional web interfaces without bells and whistles, because I can't do those.
+
+I am a follower of the keep it simple, stupid (KISS) principle and so I develop my software and tools.
+
+__Due to health problems I have to step back a bit but I am always available for short term projects or as ask me anything partner.__
+
+In parallel I would like to give young developers some tips and recommendations with the publication of my [fieldnotes](https://github.com/vbd/Fieldnotes) so that they don't make the same mistakes I did.
+
+__Developers are much more than just code monkeys!__ Greetings to a former project partner who called me and other project participants like that.
+ 
+
 ## Techstack
 
 Current. Sorted by use: 
