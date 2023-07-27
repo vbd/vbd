@@ -44,7 +44,7 @@ Played with it, just for fun, up to now never made something useful. Sorted alph
   </a>
 </p>  
 
-
+<!--
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vbd&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
@@ -52,7 +52,7 @@ Played with it, just for fun, up to now never made something useful. Sorted alph
 ---
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vbd&show_icons=true&theme=dark#gh-dark-mode-only)
-
+-->
 
 
 <!--
