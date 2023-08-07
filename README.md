@@ -26,21 +26,21 @@ __Developers are much more than just code monkeys!__ Greetings to a former proje
 Current. Sorted by use: 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,go,python,md,php,mysql,git,github,sqlite,regex,docker,fastapi,selenium,bots,stackoverflow,vscode,mastodon&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vim,go,python,md,php,mysql,git,github,sqlite,regex,docker,fastapi,selenium,bots,stackoverflow,vscode,mastodon&perline=12" />
   </a>
 </p> 
 
 Past, not used in project for longer time span. Sorted alphabetical:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,cs,dotnet,electron,js,jquery,latex,linux,perl,pytorch,r,rabbitmq,visualstudio,wordpress&perline=8" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,cs,dotnet,electron,js,jquery,latex,linux,perl,pytorch,r,rabbitmq,visualstudio,wordpress&perline=12" />
   </a>
 </p> 
 
 Played with it, just for fun, up to now never made something useful. Sorted alphabetical:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clojure,coffeescript,godot,haxe,lua,nim,rust,twitter,wasm&perline=8" />
+    <img src="https://skillicons.dev/icons?i=clojure,coffeescript,godot,haxe,lua,nim,rust,twitter,wasm&perline=12" />
   </a>
 </p>  
 
