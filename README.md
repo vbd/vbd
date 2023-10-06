@@ -35,6 +35,8 @@ __Developers are much more than just code monkeys!__ Greetings to a former proje
 ![](https://img.shields.io/badge/SQLite->10-purple?style=plastic)
 ![](https://img.shields.io/badge/MS_Access->20-purple?style=plastic)
 ![](https://img.shields.io/badge/AHK->30-purple?style=plastic)
+![](https://img.shields.io/badge/awk-<10-purple?style=plastic)
+
 
 ### Regular used tools
 ![](https://img.shields.io/badge/vim-purple?style=plastic)
