@@ -36,6 +36,8 @@ __Developers are much more than just code monkeys!__ Greetings to a former proje
 ![](https://img.shields.io/badge/MS_Access->20-purple?style=plastic)
 ![](https://img.shields.io/badge/AHK->30-purple?style=plastic)
 ![](https://img.shields.io/badge/awk-<10-purple?style=plastic)
+![](https://img.shields.io/badge/HTML->50-purple?style=plastic)
+![](https://img.shields.io/badge/CSS->20-purple?style=plastic)
 
 
 ### Regular used tools
@@ -50,6 +52,7 @@ __Developers are much more than just code monkeys!__ Greetings to a former proje
 ![](https://img.shields.io/badge/xsv-purple?style=plastic)
 ![](https://img.shields.io/badge/vs_code-purple?style=plastic)
 ![](https://img.shields.io/badge/revealjs-purple?style=plastic)
+![](https://img.shields.io/badge/markdown-purple?style=plastic)
 
 ### Frameworks
 ![](https://img.shields.io/badge/Angular-purple?style=plastic)
