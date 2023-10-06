@@ -23,6 +23,53 @@ __Developers are much more than just code monkeys!__ Greetings to a former proje
 
 ## Techstack
 
+### Current tech stack, used in # projects
+![](https://img.shields.io/badge/Go->20-purple?style=plastic)
+![](https://img.shields.io/badge/PHP->50-purple?style=plastic)
+![](https://img.shields.io/badge/HTMX-<10-purple?style=plastic)
+![](https://img.shields.io/badge/SQL->50-purple?style=plastic)
+![](https://img.shields.io/badge/Python->50-purple?style=plastic)
+![](https://img.shields.io/badge/MS_SQL_Server->20-purple?style=plastic)
+![](https://img.shields.io/badge/MySQL->30-purple?style=plastic)
+![](https://img.shields.io/badge/MariaDB->10-purple?style=plastic)
+![](https://img.shields.io/badge/SQLite->10-purple?style=plastic)
+![](https://img.shields.io/badge/MS_Access->20-purple?style=plastic)
+![](https://img.shields.io/badge/AHK->30-purple?style=plastic)
+
+### Regular used tools
+![](https://img.shields.io/badge/vim-purple?style=plastic)
+![](https://img.shields.io/badge/rg-purple?style=plastic)
+![](https://img.shields.io/badge/fd-purple?style=plastic)
+![](https://img.shields.io/badge/fzf-purple?style=plastic)
+![](https://img.shields.io/badge/plantuml-purple?style=plastic)
+![](https://img.shields.io/badge/imagemagick-purple?style=plastic)
+![](https://img.shields.io/badge/ffmpeg-purple?style=plastic)
+![](https://img.shields.io/badge/miller-purple?style=plastic)
+![](https://img.shields.io/badge/xsv-purple?style=plastic)
+![](https://img.shields.io/badge/vs_code-purple?style=plastic)
+![](https://img.shields.io/badge/revealjs-purple?style=plastic)
+
+### Frameworks
+![](https://img.shields.io/badge/Angular-purple?style=plastic)
+![](https://img.shields.io/badge/Matplotlib-purple?style=plastic)
+![](https://img.shields.io/badge/Pandas-purple?style=plastic)
+![](https://img.shields.io/badge/Pytorch-purple?style=plastic)
+![](https://img.shields.io/badge/Prophet-purple?style=plastic)
+![](https://img.shields.io/badge/pyautogui-purple?style=plastic)
+![](https://img.shields.io/badge/FastAPI-purple?style=plastic)
+
+
+### Languages used in the past
+![](https://img.shields.io/badge/C-purple?style=plastic)
+![](https://img.shields.io/badge/C%2B%2B-purple?style=plastic)
+![](https://img.shields.io/badge/C%23-purple?style=plastic)
+![](https://img.shields.io/badge/Perl-purple?style=plastic)
+![](https://img.shields.io/badge/R-purple?style=plastic)
+![](https://img.shields.io/badge/JavaScript-purple?style=plastic)
+
+
+
+<!--
 Current. Sorted by use: 
 <p>
   <a href="https://skillicons.dev">
@@ -43,7 +90,7 @@ Played with it, just for fun, up to now never made something useful. Sorted alph
     <img src="https://skillicons.dev/icons?i=clojure,coffeescript,godot,haxe,lua,nim,rust,twitter,wasm&perline=12" />
   </a>
 </p>  
-
+-->
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vbd&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
