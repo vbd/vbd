@@ -55,6 +55,7 @@ __Developers are much more than just code monkeys!__ Greetings to a former proje
 ![](https://img.shields.io/badge/markdown-purple?style=plastic)
 ![](https://img.shields.io/badge/git-purple?style=plastic)
 ![](https://img.shields.io/badge/fossil_scm-purple?style=plastic)
+![](https://img.shields.io/badge/visidata-purple?style=plastic)
 
 ### Frameworks
 ![](https://img.shields.io/badge/Angular-purple?style=plastic)
