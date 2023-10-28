@@ -20,6 +20,11 @@ In parallel I would like to give young developers some tips and recommendations 
 
 __Developers are much more than just code monkeys!__ Greetings to a former project partner who called me and other project participants like that. I hadn't known the expression before. May you, too, occasionally experience enlightenment.
  
+---
+
+If you want to support me, my work and my projects you can do so by [Buy me a coffee! ☕](https://www.buymeacoffee.com/vbduetsch) I will be really thankful and it would help me a lot.
+
+---
 
 ## Techstack
 
