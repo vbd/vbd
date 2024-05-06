@@ -29,20 +29,20 @@ If you want to support me, my work and my projects you can do so by [Buy me a co
 ## Techstack
 
 ### Current tech stack, used in # projects
-![](https://img.shields.io/badge/Go->20-purple?style=plastic)
+![](https://img.shields.io/badge/Go->35-purple?style=plastic)
 ![](https://img.shields.io/badge/PHP->50-purple?style=plastic)
-![](https://img.shields.io/badge/HTMX-<10-purple?style=plastic)
-![](https://img.shields.io/badge/SQL->50-purple?style=plastic)
+![](https://img.shields.io/badge/HTMX->15-purple?style=plastic)
+![](https://img.shields.io/badge/SQL->200-purple?style=plastic)
 ![](https://img.shields.io/badge/Python->50-purple?style=plastic)
 ![](https://img.shields.io/badge/MS_SQL_Server->20-purple?style=plastic)
 ![](https://img.shields.io/badge/MySQL->30-purple?style=plastic)
 ![](https://img.shields.io/badge/MariaDB->10-purple?style=plastic)
-![](https://img.shields.io/badge/SQLite->10-purple?style=plastic)
-![](https://img.shields.io/badge/MS_Access->20-purple?style=plastic)
-![](https://img.shields.io/badge/AHK->30-purple?style=plastic)
-![](https://img.shields.io/badge/awk-<10-purple?style=plastic)
-![](https://img.shields.io/badge/HTML->50-purple?style=plastic)
-![](https://img.shields.io/badge/CSS->20-purple?style=plastic)
+![](https://img.shields.io/badge/SQLite->50-purple?style=plastic)
+![](https://img.shields.io/badge/MS_Access->30-purple?style=plastic)
+![](https://img.shields.io/badge/AHK->40-purple?style=plastic)
+![](https://img.shields.io/badge/awk->20-purple?style=plastic)
+![](https://img.shields.io/badge/HTML->100-purple?style=plastic)
+![](https://img.shields.io/badge/CSS->25-purple?style=plastic)
 
 
 ### Regular used tools
