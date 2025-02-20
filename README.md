@@ -8,7 +8,7 @@ and
 
 are my motto.
 
-In various roles including: developer, Scrum Master, Product Owner, project manager, sub-project manager, architect, troubleshooter, I have more than 25 years of project experience.
+In various roles including: developer, Scrum Master, Product Owner, project manager, sub-project manager, architect, troubleshooter, I have more than 30 years of project experience.
 
 My focus is on the development of backend software and matching CLI and TUI tools, often functional web interfaces without bells and whistles, because I can't do those.
 
@@ -29,15 +29,14 @@ If you want to support me, my work and my projects you can do so by [Buy me a co
 ## Techstack
 
 ### Current tech stack, used in # projects
-![](https://img.shields.io/badge/Go->35-purple?style=plastic)
+![](https://img.shields.io/badge/Go->55-purple?style=plastic)
 ![](https://img.shields.io/badge/PHP->50-purple?style=plastic)
 ![](https://img.shields.io/badge/HTMX->15-purple?style=plastic)
-![](https://img.shields.io/badge/SQL->200-purple?style=plastic)
 ![](https://img.shields.io/badge/Python->50-purple?style=plastic)
 ![](https://img.shields.io/badge/MS_SQL_Server->20-purple?style=plastic)
 ![](https://img.shields.io/badge/MySQL->30-purple?style=plastic)
-![](https://img.shields.io/badge/MariaDB->10-purple?style=plastic)
-![](https://img.shields.io/badge/SQLite->50-purple?style=plastic)
+![](https://img.shields.io/badge/MariaDB->40-purple?style=plastic)
+![](https://img.shields.io/badge/SQLite->60-purple?style=plastic)
 ![](https://img.shields.io/badge/MS_Access->30-purple?style=plastic)
 ![](https://img.shields.io/badge/AHK->40-purple?style=plastic)
 ![](https://img.shields.io/badge/awk->20-purple?style=plastic)
